@@ -1,6 +1,8 @@
 # Ola_Uber_Rides_Analysis
 This project focuses on designing and managing a relational database for a ride-sharing platform similar to Ola or Uber. 
 
+
+
 # Key Features:
 ## Comprehensive Data Management:
 
@@ -10,3 +12,12 @@ This project focuses on designing and managing a relational database for a ride-
 ### Trips: Maintains a record of trips with details such as start and end locations, fare, distance, and status.
 ### Payments: Handles various payment modes and associated details.
 ### Coupons: Manages discount coupons with validity and start dates.
+
+# Potential Use Cases:
+## Operational Insights:
+### Identify underperforming drivers or vehicles requiring maintenance.
+### Analyze customer retention based on repeated trips and coupon usage.
+
+## Business Optimization:
+### Optimize routes and match customers to the nearest drivers.
+### Evaluate the effectiveness of promotional campaigns through coupon data.
