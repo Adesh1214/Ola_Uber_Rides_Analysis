@@ -1,6 +1,7 @@
 # Ola_Uber_Rides_Analysis
 This project focuses on designing and managing a relational database for a ride-sharing platform similar to Ola or Uber. 
-
+<img src="![Ola-Cabs-Logo](https://github.com/user-attachments/assets/d0356744-06bd-4ae2-bbf4-394ec366851e)
+" alt=" " width="150" height="100"/>
 
 
 # Key Features:
