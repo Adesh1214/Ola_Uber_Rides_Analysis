@@ -1,4 +1,4 @@
-This project focuses on designing and managing a relational database for a ride-sharing platform similar to Ola or Uber. 
+## Project Description:-This project focuses on designing and managing a relational database for a ride-sharing platform similar to Ola or Uber. The database is built to handle critical functionalities of the platform, including managing customer and driver information, trip details, payment processing, and promotional campaigns through coupons.
 
 <img src="https://github.com/Adesh1214/Ola_Uber_Rides_Analysis/blob/main/Ola-Cabs-Logo.png" alt=" " width="200" height="150"/>
 
@@ -17,10 +17,11 @@ This project focuses on designing and managing a relational database for a ride-
 ## Operational Insights:
 ### Identify underperforming drivers or vehicles requiring maintenance.
 ### Analyze customer retention based on repeated trips and coupon usage.
+### identifying top customers, most-used vehicles, and driver performance.
 
 ## Business Optimization:
 ### Optimize routes and match customers to the nearest drivers.
-### Evaluate the effectiveness of promotional campaigns through coupon data.
+### Track ratings to ensure high service quality.
 
 # Screenshots- 
 
